@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hello everyone! 👋
 
-<!--
-**denniscattoni/denniscattoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 📚 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[2021 - 2024] BSc Computer Science - University of Trento
+
+[2024 - On going] MSc Computer Science - University of Trento
+
+<br>
+
+## 💻 Skills
+[![Tech Stack](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,ros,java,bash,mysql,github,arduino,docker,linux)]()
+
+<br>
+
+## 📧 E-Mail
+
+[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:dennis.cattoni@studenti.unitn.it)
+
