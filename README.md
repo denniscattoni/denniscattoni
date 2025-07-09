@@ -15,7 +15,6 @@
 
 <br>
 
-## 📧 E-Mail
+## 📧 Reach me Out
 
-[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:dennis.cattoni@studenti.unitn.it)
-
+Email: dennis@gmail.xyz
