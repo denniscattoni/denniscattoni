@@ -4,9 +4,9 @@
 
 ## 📚 Education
 
-[2021 - 2024] BSc Computer Science - University of Trento
+[2021 - 2024] B.Sc. Computer Science - University of Trento
 
-[2024 - On going] MSc Computer Science - University of Trento
+[2024 - Ongoing] M.Sc. Computer Science - University of Trento
 
 <br>
 
