@@ -1,10 +1,12 @@
 <h1>Hello everyone! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+
 Passionate about secure software development, embedded security, applied cryptography, and low-level systems.
 
 ## 📚 Education
 
-[2021 - 2024] B.Sc. Computer Science - University of Trento <br>
-[2024 - Ongoing] M.Sc. Computer Science - University of Trento
+[2024 - Ongoing] M.Sc. Computer Science - University of Trento  <br>
+[2021 - 2024] B.Sc. Computer Science - University of Trento
+
 
 ## 💻 Skills
 
