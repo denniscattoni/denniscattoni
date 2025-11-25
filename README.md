@@ -30,4 +30,4 @@ Passionate about secure software development, embedded security, applied cryptog
 </p>
 
 ## 📧 Reach me out
-[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:dennis.cattoni@studenti.unitn.com)
+[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:dennis.cattoni@studenti.unitn.it)
