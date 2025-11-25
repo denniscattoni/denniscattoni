@@ -14,7 +14,7 @@ Passionate about secure software development, embedded security, applied cryptog
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"
-       alt="Ghidra" width="48" style="margin-right:10px;" />
+       alt="Ghidra" width="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/2560px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png"
      alt="GDB" height="45" style="vertical-align:middle;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg"
