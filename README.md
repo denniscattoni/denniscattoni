@@ -15,16 +15,18 @@ Passionate about secure software development, embedded security, applied cryptog
 ## 🛡️ Cybersecurity tools
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"
-       alt="Ghidra" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/2560px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png"
-     alt="GDB" height="45" style="vertical-align:middle;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg"
-       alt="Burp Suite" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"
-       alt="Wireshark" width="43" />
   <img src="https://spotbugs.github.io/images/logos/spotbugs_icon_only_385px.png"
        alt="SpotBugs" width="43" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdXLMbHM8e8Km_bSSpLJp6AaUvYTsq9srbg&s"
+       alt="OWASP ZAP" width="43" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"
+       alt="Wireshark" width="43" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg"
+       alt="Burp Suite" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"
+       alt="Ghidra" width="47" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/2560px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png"
+     alt="GDB" height="45" style="vertical-align:middle;" />
 </p>
 
 ## 📧 Reach me out
