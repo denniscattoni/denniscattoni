@@ -25,7 +25,7 @@ Passionate about secure software development, embedded security, applied cryptog
        alt="Burp Suite" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"
        alt="Ghidra" width="47" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/2560px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg"
      alt="GDB" height="45" style="vertical-align:middle;" />
 </p>
 
